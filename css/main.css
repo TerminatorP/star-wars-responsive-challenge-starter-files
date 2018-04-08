@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  font-family: 'Roboto', sans-serif;
+}
+
+img {
+  max-width: 100%;
+  width: 100%;
+}
+
+nav {
+  background: #f0bd35;
+  position: absolute;
+  width: 100%;
+  padding: 10px 0;
+}
+
+.row h2, .row span{
+  padding: 0 1.04166666%;
+}
+
+.card {
+  border: 2px solid #eee;
+  padding-bottom: 1rem;
+}
+
+.card h3, .card p {
+  margin: 0.75rem;
+}
+section {
+  padding: 100px;
+}
